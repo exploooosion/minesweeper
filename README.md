@@ -1,2 +1,2 @@
-# minesweeper-10
+# minesweeper
 Minesweeper for ICS2O1 final
